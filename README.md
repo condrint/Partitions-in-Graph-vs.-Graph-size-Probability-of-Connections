@@ -9,4 +9,4 @@ The union find algorithm was modified from Stefan Pochmann's solution for this [
 
 ## Todo
 * Experiment with different parameters such as a matrix/graph with 6 neighbors as opposed to 4 
-* User input for tweaking parameters as oppossed to modifying the ```if __name__ == '__main__'``` block
+* User input for tweaking parameters as opposed to modifying the ```if __name__ == '__main__'``` block
