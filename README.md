@@ -7,5 +7,5 @@ Used Matplotlib for the graph
 
 The union find algorithm was modified from Stefan Pochmann's solution for this [leetcode question](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/77625/Short-Union-Find-in-Python-Ruby-C%2B%2B)
 
-##Todo
+## Todo
 *Experiment with different parameters such as a matrix/graph with 6 neighbors as opposed to 4 
