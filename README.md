@@ -1,7 +1,7 @@
 # Partitions-in-Graph-vs.-Graph-size-Probability-of-Connections
 Visualing some data created running a union find algorithm on randomly generated matrices with "clusters" of connected nodes
 
-Trying to recreate this https://www.ocf.berkeley.edu/~fricke/projects/hoshenkopelman/hoshenkopelman.html in Python
+Trying to recreate this [algorithm/analysis](https://www.ocf.berkeley.edu/~fricke/projects/hoshenkopelman/hoshenkopelman.html) in Python
 
 Used Matplotlib for the graph
 
